@@ -94,6 +94,10 @@
   - [Atlassian tutorials](https://www.atlassian.com/git/tutorials/)
   - [Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/) 
 
+##System Design
+- [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
+- [High Scalability](http://highscalability.com/)
+
 
 ## RAW content to be sorted
 Advanced Linux Programming
@@ -118,7 +122,6 @@ Advanced Linux Programming
 • LDAP
 
 • Python unit testing, signals, IPC, sockets...
-• BGP [tcp-based], OSPF [link-layer, multicast, IP-based protocol, 1-hop packets, Dijkstra's algorithm]
 • RAID configurations and performance
 • Caching
 • I/O schedulers, CPU schedulers
