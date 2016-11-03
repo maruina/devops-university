@@ -1,6 +1,8 @@
 # Table of Content
 - [Network](#network)
 - [Database](#database)
+- [IAAS](#iaas)
+- [Programming](#programming)
 
 ## Network
 - Network layers 1 - 3
@@ -43,6 +45,15 @@
 - AWS
   - [Official documentation](https://aws.amazon.com/documentation/)
   - [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
+
+## Programming
+- Bash
+  - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
+  - [Shell Style Guide](https://google.github.io/styleguide/shell.xml)
+  - [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+- Python
+  - [Official documentation](https://docs.python.org/3.6/#)
+  - [Learning Python, 5th edition](#http://learning-python.com/books/about-lp5e.html)
 
 
 ## RAW content to be sorted
