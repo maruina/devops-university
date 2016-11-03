@@ -4,6 +4,7 @@
 - [Database](#database)
 - [IAAS](#iaas)
 - [Programming](#programming)
+- [Version Control](#version-control)
 
 ## Linux
 - [Understanding the Linux kernel](http://shop.oreilly.com/product/9780596005658.do)
@@ -31,6 +32,7 @@
   - [Chapter 06 - Mastering Linux](http://advancedlinuxprogramming.com/alp-folder/alp-ch06-mastering-linux.pdf)
   - [Chapter 07 - The /proc File System](http://advancedlinuxprogramming.com/alp-folder/alp-ch07-proc-filesystem.pdf)
   - [Chapter 10 - Security](http://advancedlinuxprogramming.com/alp-folder/alp-ch10-security.pdf)
+- [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions)
 
 ## Network
 - Network layers 1 - 3
@@ -86,6 +88,11 @@
 - Go
   - [Official documentation](https://golang.org/doc/) 
   - [The Go Programming Language](http://www.gopl.io/)
+
+##Version Control
+- Git
+  - [Atlassian tutorials](https://www.atlassian.com/git/tutorials/)
+  - [Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/) 
 
 
 ## RAW content to be sorted
