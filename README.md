@@ -53,7 +53,11 @@
   - [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 - Python
   - [Official documentation](https://docs.python.org/3.6/#)
-  - [Learning Python, 5th edition](#http://learning-python.com/books/about-lp5e.html)
+  - [Learning Python, 5th edition](http://learning-python.com/books/about-lp5e.html)
+  - [Common Gotchas](http://docs.python-guide.org/en/latest/writing/gotchas/)
+- Go
+  - [Official documentation](https://golang.org/doc/) 
+  - [The Go Programming Language](http://www.gopl.io/)
 
 
 ## RAW content to be sorted
