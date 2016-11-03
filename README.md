@@ -37,6 +37,10 @@
 - SQL
   - [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
   - [PostgreSQL Exercises](https://pgexercises.com/)
+## IAAS
+- AWS
+  - [Official documentation](https://aws.amazon.com/documentation/)
+  - [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
 
 
 ## RAW content to be sorted
