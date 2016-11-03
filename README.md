@@ -1,9 +1,9 @@
 # Table of Content
 
 ## Network
-- [Network layers 1 - 3](https://en.wikipedia.org/wiki/Ethernet)
+- Network layers 1 - 3
   - [ARP](https://en.wikipedia.org/wiki/Address_Resolution_Protocol)
-  - [Ethernet frame](https://en.wikipedia.org/wiki/Ethernet_frame): 
+  - [Ethernet](https://en.wikipedia.org/wiki/Ethernet))
   - [IPv4](https://en.wikipedia.org/wiki/IPv4)
   - [IPv6](https://en.wikipedia.org/wiki/IPv6)
   - [ICMP](https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol) and [Path MTU Discovery](https://en.wikipedia.org/wiki/Path_MTU_Discovery)
