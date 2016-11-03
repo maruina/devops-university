@@ -1,8 +1,36 @@
 # Table of Content
+- [Linux](#linux)
 - [Network](#network)
 - [Database](#database)
 - [IAAS](#iaas)
 - [Programming](#programming)
+
+## Linux
+- [Understanding the Linux kernel](http://shop.oreilly.com/product/9780596005658.do)
+  - Introduction
+  - Memory Addressing
+  - Processes
+  - Interrupts and Exceptions
+  - Process Scheduling
+  - Memory Management
+  - Process Address Space
+  - System Calls
+  - Signals
+  - The Virtual Filesystem (VFS)
+  - I/O Architecture
+  - Block Device Drivers
+  - The Page Cache
+  - Accessing Files
+  - Page Frame Reclaiming
+  - Process Communication
+  - Program Execution
+  - System Startup
+- [Advanced Linux Programming](http://advancedlinuxprogramming.com/alp-folder/)
+  - [Chapter 02 - Writing Good GNU/Linux Software](http://advancedlinuxprogramming.com/alp-folder/alp-ch02-writing-good-gnu-linux-software.pdf)
+  - [Chapter 05 - Interprocess Communication](http://advancedlinuxprogramming.com/alp-folder/alp-ch05-ipc.pdf)
+  - [Chapter 06 - Mastering Linux](http://advancedlinuxprogramming.com/alp-folder/alp-ch06-mastering-linux.pdf)
+  - [Chapter 07 - The /proc File System](http://advancedlinuxprogramming.com/alp-folder/alp-ch07-proc-filesystem.pdf)
+  - [Chapter 10 - Security](http://advancedlinuxprogramming.com/alp-folder/alp-ch10-security.pdf)
 
 ## Network
 - Network layers 1 - 3
