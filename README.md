@@ -33,10 +33,12 @@
     - [SPF](https://en.wikipedia.org/wiki/Sender_Policy_Framework)
     - [DKIM](https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail)
     - [DMARC](https://en.wikipedia.org/wiki/DMARC)
+
 ## Database
 - SQL
   - [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
   - [PostgreSQL Exercises](https://pgexercises.com/)
+
 ## IAAS
 - AWS
   - [Official documentation](https://aws.amazon.com/documentation/)
