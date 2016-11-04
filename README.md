@@ -5,6 +5,12 @@
 - [IAAS](#iaas)
 - [Programming](#programming)
 - [Version Control](#version-control)
+- [System Design](#system-design)
+- [System Performance](#system-performance)
+- [Troubleshooting](#troubleshooting)
+- [CI/CD](#ci/cd)
+- [Containers](#containers)
+- [Configuration Management](#configuration-management)
 
 ## Linux
 - [Understanding the Linux kernel](http://shop.oreilly.com/product/9780596005658.do)
@@ -118,6 +124,7 @@
 ## Troubleshooting
 - [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions)
 - [Linux Performance Analysis in 60,000 Milliseconds](http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html)
+- ["What happens when you type google.com into your browser's address box and press enter?"](https://github.com/alex/what-happens-when)
 
 ## CI/CD
 - [Continuous Integration](http://www.martinfowler.com/articles/continuousIntegration.html)
