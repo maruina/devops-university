@@ -121,6 +121,26 @@
 
 ## CI/CD
 - [Continuous Integration](http://www.martinfowler.com/articles/continuousIntegration.html)
+- Test frameworks
+  - [Inspec](http://inspec.io/)
+  - [KitchenCI](http://kitchen.ci/)
+
+## Containers
+- [cgroups](https://www.kernel.org/doc/Documentation/cgroup-v2.txt) and [namespaces](http://man7.org/linux/man-pages/man7/namespaces.7.html)
+- [Docker](https://docs.docker.com/)
+- [rkt](https://coreos.com/rkt/)
+- Framerworks
+  - [Kubernetes](http://kubernetes.io/docs/)
+  - [Mesosphere](https://mesosphere.com/product/)
+- [Docker init problems](https://engineeringblog.yelp.com/2016/01/dumb-init-an-init-for-docker.html)
+
+## Configuration Management
+- [](https://en.wikipedia.org/wiki/Configuration_management)
+- Pick one from
+  - [Ansible](http://docs.ansible.com/)
+  - [SaltStack](https://docs.saltstack.com/en/latest/)
+  - [Chef](https://docs.chef.io/)
+  - [Puppet](https://docs.puppet.com/)
 
 
 ## RAW content to be sorted
@@ -146,7 +166,6 @@
   • can add headers for session cookies
   • methods: byrequests, bytraffic, bybusyness
   • balancer manager → web if (needs mod_status)
-• cgroups, containers, microservices
 • Virtualization technologies
 • Orchestration software (Puppet, Chef, Ansible, Salt)
 • map-reduce
