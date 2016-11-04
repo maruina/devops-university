@@ -119,6 +119,9 @@
 - [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions)
 - [Linux Performance Analysis in 60,000 Milliseconds](http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html)
 
+## CI/CD
+- [Continuous Integration](http://www.martinfowler.com/articles/continuousIntegration.html)
+
 
 ## RAW content to be sorted
 • Storage technologies: RAID, ATA/SCSI, FC, InfiniBand, filesystems
