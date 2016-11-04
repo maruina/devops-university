@@ -39,6 +39,17 @@
   - [Chapter 07 - The /proc File System](http://advancedlinuxprogramming.com/alp-folder/alp-ch07-proc-filesystem.pdf)
   - [Chapter 10 - Security](http://advancedlinuxprogramming.com/alp-folder/alp-ch10-security.pdf)
 - [Memory Layout of C Program](http://cs-fundamentals.com/c-programming/memory-layout-of-c-program-code-data-segments.php)
+- Filesystems
+  - [Ext4](https://en.wikipedia.org/wiki/Ext4)
+  - [XFS](https://en.wikipedia.org/wiki/XFS)
+  - [Btrfs](https://en.wikipedia.org/wiki/Btrfs)
+  - [ZFS](https://en.wikipedia.org/wiki/ZFS)
+- Storage technologies
+  - [SATA](https://en.wikipedia.org/wiki/Serial_ATA)
+  - [SCSI](https://en.wikipedia.org/wiki/SCSI)
+  - [Fiber Channel](https://en.wikipedia.org/wiki/Fibre_Channel)
+  - [InfiniBand](https://en.wikipedia.org/wiki/InfiniBand)
+- [RAID](http://www.storagecraft.com/blog/raid-performance/) 
 
 ## Network
 - Network layers 1 - 3
@@ -71,6 +82,7 @@
     - [SPF](https://en.wikipedia.org/wiki/Sender_Policy_Framework)
     - [DKIM](https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail)
     - [DMARC](https://en.wikipedia.org/wiki/DMARC)
+  - [LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) 
 
 ## Database
 - SQL
@@ -151,7 +163,6 @@
 
 
 ## RAW content to be sorted
-• Storage technologies: RAID, ATA/SCSI, FC, InfiniBand, filesystems
 • Memory management
   • Paging
   • Page faults
@@ -163,7 +174,6 @@
 • LDAP
 
 • Python unit testing, signals, IPC, sockets...
-• RAID configurations and performance
 • Caching
 • I/O schedulers, CPU schedulers
 • Data structures and algorithm complexity
@@ -174,7 +184,6 @@
   • methods: byrequests, bytraffic, bybusyness
   • balancer manager → web if (needs mod_status)
 • Virtualization technologies
-• Orchestration software (Puppet, Chef, Ansible, Salt)
 • map-reduce
 How traceroute works
 How ping works
