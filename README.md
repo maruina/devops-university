@@ -32,7 +32,7 @@
   - [Chapter 06 - Mastering Linux](http://advancedlinuxprogramming.com/alp-folder/alp-ch06-mastering-linux.pdf)
   - [Chapter 07 - The /proc File System](http://advancedlinuxprogramming.com/alp-folder/alp-ch07-proc-filesystem.pdf)
   - [Chapter 10 - Security](http://advancedlinuxprogramming.com/alp-folder/alp-ch10-security.pdf)
-- [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions)
+- [Memory Layout of C Program](http://cs-fundamentals.com/c-programming/memory-layout-of-c-program-code-data-segments.php)
 
 ## Network
 - Network layers 1 - 3
@@ -89,19 +89,38 @@
   - [Official documentation](https://golang.org/doc/) 
   - [The Go Programming Language](http://www.gopl.io/)
 
-##Version Control
+## Version Control
 - Git
   - [Atlassian tutorials](https://www.atlassian.com/git/tutorials/)
   - [Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/) 
 
-##System Design
+## System Design
 - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
 - [High Scalability](http://highscalability.com/)
 
+## System Performance
+- [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
+  - Introduction
+  - Methodology
+  - Operating Systems
+  - Observability Tools
+  - Applications
+  - CPUs
+  - Memory
+  - File Systems
+  - Disks
+  - Network
+  - Cloud Computing
+  - Benchmarking
+  - Case Study
+  - Appendices
+
+## Troubleshooting
+- [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions)
+- [Linux Performance Analysis in 60,000 Milliseconds](http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html)
+
 
 ## RAW content to be sorted
-Advanced Linux Programming
-• System calls
 • Storage technologies: RAID, ATA/SCSI, FC, InfiniBand, filesystems
 • Memory management
   • Paging
@@ -111,14 +130,6 @@ Advanced Linux Programming
     • Load the requested data into the available page frame.
     • Update the page table to refer to the new page frame.
     • Return control to the program, transparently retrying the instruction that caused the page fault.
-• In-memory structure for executables
-  • TEXT: binary image, constants, initialized strings (RO)
-  • DATA: initialized static variables, pointers to strings, (private) map of the process file
-  • BSS: uninitialized static variables (anonymous mapping)
-  • Heap: runtime memory allocations that must survive the function call → malloc(), new
-  • Memory segment: mmap()s, loading of dynamic libraries
-  • Stack: runtime memory allocations for the current (sub)function
-• Interrupts and how the kernel manages them
 • LDAP
 
 • Python unit testing, signals, IPC, sockets...
