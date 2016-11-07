@@ -49,12 +49,17 @@
   - [SCSI](https://en.wikipedia.org/wiki/SCSI)
   - [Fiber Channel](https://en.wikipedia.org/wiki/Fibre_Channel)
   - [InfiniBand](https://en.wikipedia.org/wiki/InfiniBand)
-- [RAID](http://www.storagecraft.com/blog/raid-performance/) 
+- [RAID](http://www.storagecraft.com/blog/raid-performance/)
+- [I/O Scheduler](http://www.admon.org/system-tuning/a-comparison-of-io-schedulers/)
+- [CPU Scheduler](https://doc.opensuse.org/documentation/html/openSUSE_121/opensuse-tuning/cha.tuning.taskscheduler.html)
+- Security
+  - [SELinux](https://en.wikipedia.org/wiki/Security-Enhanced_Linux)
+  - [grsecurity](https://en.wikipedia.org/wiki/Grsecurity) 
 
 ## Network
 - Network layers 1 - 3
   - [ARP](https://en.wikipedia.org/wiki/Address_Resolution_Protocol)
-  - [Ethernet](https://en.wikipedia.org/wiki/Ethernet))
+  - [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
   - [IPv4](https://en.wikipedia.org/wiki/IPv4)
   - [IPv6](https://en.wikipedia.org/wiki/IPv6)
   - [ICMP](https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol) and [Path MTU Discovery](https://en.wikipedia.org/wiki/Path_MTU_Discovery)
@@ -82,7 +87,13 @@
     - [SPF](https://en.wikipedia.org/wiki/Sender_Policy_Framework)
     - [DKIM](https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail)
     - [DMARC](https://en.wikipedia.org/wiki/DMARC)
-  - [LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) 
+  - [LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol)
+- [Load Balancing](https://en.wikipedia.org/wiki/Load_balancing_(computing))
+  - [Apache mod_proxy_balancer](https://httpd.apache.org/docs/2.4/mod/mod_proxy_balancer.html)
+  - [HAProxy](http://www.haproxy.org/#desc) 
+- [Network caching](http://docwiki.cisco.com/wiki/Network_Caching_Technologies)
+  - [Varnish](https://en.wikipedia.org/wiki/Varnish_(software)) 
+- [CDN](https://en.wikipedia.org/wiki/Content_delivery_network)
 
 ## Database
 - SQL
@@ -103,9 +114,11 @@
   - [Official documentation](https://docs.python.org/3.6/#)
   - [Learning Python, 5th edition](http://learning-python.com/books/about-lp5e.html)
   - [Common Gotchas](http://docs.python-guide.org/en/latest/writing/gotchas/)
+  - [Testing](http://docs.python-guide.org/en/latest/writing/tests/)
 - Go
   - [Official documentation](https://golang.org/doc/) 
   - [The Go Programming Language](http://www.gopl.io/)
+- [Data structures and complexity](http://bigocheatsheet.com/) 
 
 ## Version Control
 - Git
@@ -154,13 +167,17 @@
 - [Docker init problems](https://engineeringblog.yelp.com/2016/01/dumb-init-an-init-for-docker.html)
 
 ## Configuration Management
-- [](https://en.wikipedia.org/wiki/Configuration_management)
+- [Configuration management](https://en.wikipedia.org/wiki/Configuration_management)
 - Pick one from
   - [Ansible](http://docs.ansible.com/)
   - [SaltStack](https://docs.saltstack.com/en/latest/)
   - [Chef](https://docs.chef.io/)
   - [Puppet](https://docs.puppet.com/)
 
+## Virtualization technologies
+- [Hypervisor](https://en.wikipedia.org/wiki/Hypervisor)
+  - [KVM](https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine)
+  - [Xen](https://en.wikipedia.org/wiki/Xen)
 
 ## RAW content to be sorted
 • Memory management
@@ -171,19 +188,4 @@
     • Load the requested data into the available page frame.
     • Update the page table to refer to the new page frame.
     • Return control to the program, transparently retrying the instruction that caused the page fault.
-• LDAP
-
-• Python unit testing, signals, IPC, sockets...
-• Caching
-• I/O schedulers, CPU schedulers
-• Data structures and algorithm complexity
-• GRSEC/PAX, SELinux
-• Apache, load balancing
-  • mod_proxy_balancer <Proxy balancer://...>BalancerMember http://[[buuuu loadfactor=n</Proxy]]> ProxyPass /match balancer://...
-  • can add headers for session cookies
-  • methods: byrequests, bytraffic, bybusyness
-  • balancer manager → web if (needs mod_status)
-• Virtualization technologies
-• map-reduce
-How traceroute works
-How ping works
+* Security
