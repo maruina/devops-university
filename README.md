@@ -110,11 +110,12 @@
 ## Programming
 - Bash
   - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
-  - [Shell Style Guide](https://google.github.io/styleguide/shell.xml)
+  - [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml)
   - [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 - Python
   - [Official documentation](https://docs.python.org/3.6/#)
   - [Learning Python, 5th edition](http://learning-python.com/books/about-lp5e.html)
+  - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
   - [Common Gotchas](http://docs.python-guide.org/en/latest/writing/gotchas/)
   - [Testing](http://docs.python-guide.org/en/latest/writing/tests/)
 - Go
