@@ -11,6 +11,7 @@
 - [CI/CD](#ci/cd)
 - [Containers](#containers)
 - [Configuration Management](#configuration-management)
+- [Virtualization technologies](#virtualization-technologies)
 
 ## Linux
 - [Understanding the Linux kernel](http://shop.oreilly.com/product/9780596005658.do)
@@ -75,7 +76,8 @@
   - [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
 - Network layer 7
   - [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol), [HTTPS](https://en.wikipedia.org/wiki/HTTPS) and [HSTS](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security)
-  - [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+  - [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security), [Public key certificate](https://en.wikipedia.org/wiki/Public_key_certificate) and [Certificate authority
+](https://en.wikipedia.org/wiki/Certificate_authority)
   - [SSH](https://en.wikipedia.org/wiki/Secure_Shell)
   - [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) and [DNSSEC](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions)
   - [DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
@@ -119,6 +121,11 @@
   - [Official documentation](https://golang.org/doc/) 
   - [The Go Programming Language](http://www.gopl.io/)
 - [Data structures and complexity](http://bigocheatsheet.com/) 
+- [hackerrank.com](https://www.hackerrank.com)
+  - [Python](https://www.hackerrank.com/domains/python/py-introduction)
+  - [Bash](https://www.hackerrank.com/domains/shell/bash)
+  - [Data structures](https://www.hackerrank.com/domains/data-structures/arrays)
+  - [Algorithms](https://www.hackerrank.com/domains/algorithms/warmup)
 
 ## Version Control
 - Git
