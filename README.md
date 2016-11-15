@@ -78,7 +78,7 @@
   - [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
   - [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
 - Network layer 7
-  - [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol), [HTTPS](https://en.wikipedia.org/wiki/HTTPS) and [HSTS](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security)
+  - [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol), [HTTPS](https://en.wikipedia.org/wiki/HTTPS), [HSTS](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) and [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2)
   - [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security), [Public key certificate](https://en.wikipedia.org/wiki/Public_key_certificate) and [Certificate authority
 ](https://en.wikipedia.org/wiki/Certificate_authority)
   - [SSH](https://en.wikipedia.org/wiki/Secure_Shell)
