@@ -69,6 +69,7 @@
   - [ICMP](https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol) and [Path MTU Discovery](https://en.wikipedia.org/wiki/Path_MTU_Discovery)
   - [Multicast](https://en.wikipedia.org/wiki/IP_multicast) and [IGMP](https://en.wikipedia.org/wiki/Internet_Group_Management_Protocol)
   - [IPsec](https://en.wikipedia.org/wiki/IPsec)
+  - [MPLS](https://www.nanog.org/meetings/nanog49/presentations/Sunday/mpls-nanog49.pdf)
 - [Routing protocols](https://en.wikipedia.org/wiki/Routing_protocol) and [AS](https://en.wikipedia.org/wiki/Autonomous_system_(Internet))
   - [OSPF](https://en.wikipedia.org/wiki/Open_Shortest_Path_First)
   - [RIP](https://en.wikipedia.org/wiki/Routing_Information_Protocol)
@@ -79,8 +80,10 @@
   - [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
 - Network layer 7
   - [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol), [HTTPS](https://en.wikipedia.org/wiki/HTTPS), [HSTS](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) and [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2)
-  - [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security), [Public key certificate](https://en.wikipedia.org/wiki/Public_key_certificate) and [Certificate authority
-](https://en.wikipedia.org/wiki/Certificate_authority)
+  - [Same-origin policy](https://en.wikipedia.org/wiki/Same-origin_policy) and [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
+  - [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security), [SNI](https://en.wikipedia.org/wiki/Server_Name_Indication) [Public key certificate](https://en.wikipedia.org/wiki/Public_key_certificate), [Certificate authority
+](https://en.wikipedia.org/wiki/Certificate_authority), [Extended Validation Certificate](https://en.wikipedia.org/wiki/Extended_Validation_Certificate) and [Subject Alternative Name
+](https://en.wikipedia.org/wiki/Subject_Alternative_Name)
   - [SSH](https://en.wikipedia.org/wiki/Secure_Shell)
   - [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) and [DNSSEC](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions)
   - [DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
