@@ -176,6 +176,7 @@
 ## Containers
 - [cgroups](https://www.kernel.org/doc/Documentation/cgroup-v2.txt) and [namespaces](http://man7.org/linux/man-pages/man7/namespaces.7.html)
 - [Docker](https://docs.docker.com/)
+  - [Best practices for writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) 
 - [rkt](https://coreos.com/rkt/)
 - Framerworks
   - [Kubernetes](http://kubernetes.io/docs/)
