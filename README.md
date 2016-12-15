@@ -79,7 +79,8 @@
   - [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
   - [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
 - Network layer 7
-  - [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP), [HTTPS](https://en.wikipedia.org/wiki/HTTPS), [HSTS](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) and [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2)
+  - [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP), [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2) and [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
+  - [HTTPS](https://en.wikipedia.org/wiki/HTTPS) and [HSTS](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security)
   - [Same-origin policy](https://en.wikipedia.org/wiki/Same-origin_policy) and [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
   - [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security), [SNI](https://en.wikipedia.org/wiki/Server_Name_Indication), [Public key certificate](https://en.wikipedia.org/wiki/Public_key_certificate), [Certificate authority
 ](https://en.wikipedia.org/wiki/Certificate_authority), [Extended Validation Certificate](https://en.wikipedia.org/wiki/Extended_Validation_Certificate) and [Subject Alternative Name
