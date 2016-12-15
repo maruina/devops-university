@@ -146,6 +146,8 @@
 ## System Design
 - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
 - [High Scalability](http://highscalability.com/)
+- Additional examples
+  - [System Design Document - Chat system](https://www1.ethz.ch/pminf/education/courses/kse/archive/2010/exercises/SystemDesign-Chat-Solution.pdf) 
 
 ## System Performance
 - [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
