@@ -12,6 +12,7 @@
 - [Containers](#containers)
 - [Configuration Management](#configuration-management)
 - [Virtualization technologies](#virtualization-technologies)
+- [Security](#security)
 
 ## Linux
 - [Understanding the Linux kernel](http://shop.oreilly.com/product/9780596005658.do)
@@ -202,6 +203,9 @@
   - [KVM](https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine)
   - [Xen](https://en.wikipedia.org/wiki/Xen)
 
+## Security
+- [Salted Password Hashing - Doing it Right](https://crackstation.net/hashing-security.htm)
+
 ## RAW content to be sorted
 • Memory management
   • Paging
@@ -211,4 +215,3 @@
     • Load the requested data into the available page frame.
     • Update the page table to refer to the new page frame.
     • Return control to the program, transparently retrying the instruction that caused the page fault.
-* Security
