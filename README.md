@@ -105,8 +105,6 @@
   - [Varnish](https://en.wikipedia.org/wiki/Varnish_(software)) 
 - [CDN](https://en.wikipedia.org/wiki/Content_delivery_network)
 
-
-
 ## Database
 - SQL
   - [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
@@ -149,7 +147,8 @@
 - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
 - [High Scalability](http://highscalability.com/)
 - Additional examples
-  - [Chat system](https://massivetechinterview.blogspot.co.uk/2015/07/design-chat-server-hello-world.html) 
+  - [Chat system](https://massivetechinterview.blogspot.co.uk/2015/07/design-chat-server-hello-world.html)
+  - [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
 
 ## System Performance
 - [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
@@ -205,6 +204,7 @@
 
 ## Security
 - [Salted Password Hashing - Doing it Right](https://crackstation.net/hashing-security.htm)
+- [DDOS](https://www.incapsula.com/ddos/ddos-attacks/)
 
 ## RAW content to be sorted
 • Memory management
