@@ -107,6 +107,7 @@
 - [CDN](https://en.wikipedia.org/wiki/Content_delivery_network)
 
 ## Database
+- [ACID](https://en.wikipedia.org/wiki/ACID)
 - SQL
   - [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
   - [PostgreSQL Exercises](https://pgexercises.com/)
@@ -148,9 +149,21 @@
 ## System Design
 - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
 - [High Scalability](http://highscalability.com/)
+- [System Design for fun and profit](http://book.mixu.net/distsys/single-page.html)
 - Additional examples
-  - [Chat system](https://massivetechinterview.blogspot.co.uk/2015/07/design-chat-server-hello-world.html)
   - [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
+  - Twitter:
+    - [Twitter Timeline](http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html)
+    - [Twitter clone](https://www.hiredintech.com/classrooms/system-design/lesson/56)
+  - [Speed test: fast.com by Netflix](http://techblog.netflix.com/2016/08/building-fastcom.html)
+  - Chat Systems:
+    - [How HipChat Stores And Indexes Billions Of Messages Using ElasticSearch And Redis](http://highscalability.com/blog/2014/1/6/how-hipchat-stores-and-indexes-billions-of-messages-using-el.html)
+    - [How League Of Legends Scaled Chat To 70 Million Players](http://highscalability.com/blog/2014/10/13/how-league-of-legends-scaled-chat-to-70-million-players-it-t.html)
+    - [Chat system](https://massivetechinterview.blogspot.co.uk/2015/07/design-chat-server-hello-world.html)
+  - [How to build a search engine](http://infolab.stanford.edu/~backrub/google.html)
+  - [Image Hosting app](http://www.aosabook.org/en/distsys.html)
+  - [URL shortening](https://www.interviewcake.com/question/java/url-shortener)
+  - [Facebook's Photo Storage](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
 
 ## System Performance
 - [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
