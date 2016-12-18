@@ -13,6 +13,7 @@
 - [Configuration Management](#configuration-management)
 - [Virtualization technologies](#virtualization-technologies)
 - [Security](#security)
+- [Monitoring](#monitoring)
 
 ## Linux
 - [Understanding the Linux kernel](http://shop.oreilly.com/product/9780596005658.do)
@@ -111,6 +112,7 @@
   - [PostgreSQL Exercises](https://pgexercises.com/)
 - [MySQL Performance Tuning and Optimization Resources](https://www.mysql.com/why-mysql/performance/)
 - [PostgreSQL Administration](https://wiki.postgresql.org/wiki/Category:Administration)
+- [Schemaless MySQL](https://eng.uber.com/schemaless-part-one/)
 
 ## IAAS
 - AWS
@@ -205,6 +207,12 @@
 ## Security
 - [Salted Password Hashing - Doing it Right](https://crackstation.net/hashing-security.htm)
 - [DDOS](https://www.incapsula.com/ddos/ddos-attacks/)
+
+## Monitoring
+- [Kafka](https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics/)
+- [MySQL](https://www.datadoghq.com/blog/monitoring-mysql-performance-metrics/)
+- [Redis](https://www.datadoghq.com/blog/how-to-monitor-redis-performance-metrics/)
+- [Kubernetes](https://www.datadoghq.com/blog/monitoring-kubernetes-era/)
 
 ## RAW content to be sorted
 • Memory management
