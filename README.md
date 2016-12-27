@@ -16,6 +16,7 @@
 - [Monitoring](#monitoring)
 
 ## Linux
+- [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
 - [Understanding the Linux kernel](http://shop.oreilly.com/product/9780596005658.do)
   - Introduction
   - Memory Addressing
@@ -148,6 +149,7 @@
 
 ## System Design
 - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
+- [System Design from Google interview university](https://github.com/jwasham/google-interview-university#system-design-scalability-data-handling)
 - [High Scalability](http://highscalability.com/)
 - [System Design for fun and profit](http://book.mixu.net/distsys/single-page.html)
 - Additional examples
@@ -226,13 +228,3 @@
 - [MySQL](https://www.datadoghq.com/blog/monitoring-mysql-performance-metrics/)
 - [Redis](https://www.datadoghq.com/blog/how-to-monitor-redis-performance-metrics/)
 - [Kubernetes](https://www.datadoghq.com/blog/monitoring-kubernetes-era/)
-
-## RAW content to be sorted
-• Memory management
-  • Paging
-  • Page faults
-    • Determine the location of the data on disk
-    • Obtain an empty page frame in RAM to use as a container for the data. → if not, eviction through LRU
-    • Load the requested data into the available page frame.
-    • Update the page table to refer to the new page frame.
-    • Return control to the program, transparently retrying the instruction that caused the page fault.
