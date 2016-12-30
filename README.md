@@ -1,3 +1,6 @@
+An opinionanted list of knowledge you need to have to be a proper SRE/DevOps/whatever.  
+The list is not complete yet, feel free to create a PR.
+
 # Table of Content
 - [Linux](#linux)
 - [Network](#network)
@@ -11,31 +14,14 @@
 - [CI/CD](#ci/cd)
 - [Containers](#containers)
 - [Configuration Management](#configuration-management)
-- [Virtualization technologies](#virtualization-technologies)
+- [Virtualization Technologies](#virtualization-technologies)
 - [Security](#security)
 - [Monitoring](#monitoring)
+- [Miscellaneous](#miscellaneous)
 
 ## Linux
 - [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
 - [Understanding the Linux kernel](http://shop.oreilly.com/product/9780596005658.do)
-  - Introduction
-  - Memory Addressing
-  - Processes
-  - Interrupts and Exceptions
-  - Process Scheduling
-  - Memory Management
-  - Process Address Space
-  - System Calls
-  - Signals
-  - The Virtual Filesystem (VFS)
-  - I/O Architecture
-  - Block Device Drivers
-  - The Page Cache
-  - Accessing Files
-  - Page Frame Reclaiming
-  - Process Communication
-  - Program Execution
-  - System Startup
 - [Advanced Linux Programming](http://advancedlinuxprogramming.com/alp-folder/)
   - [Chapter 02 - Writing Good GNU/Linux Software](http://advancedlinuxprogramming.com/alp-folder/alp-ch02-writing-good-gnu-linux-software.pdf)
   - [Chapter 03 - Processes](http://advancedlinuxprogramming.com/alp-folder/alp-ch03-processes.pdf)
@@ -169,20 +155,6 @@
 
 ## System Performance
 - [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
-  - Introduction
-  - Methodology
-  - Operating Systems
-  - Observability Tools
-  - Applications
-  - CPUs
-  - Memory
-  - File Systems
-  - Disks
-  - Network
-  - Cloud Computing
-  - Benchmarking
-  - Case Study
-  - Appendices
 
 ## Troubleshooting
 - [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions)
@@ -214,7 +186,7 @@
   - [Chef](https://docs.chef.io/)
   - [Puppet](https://docs.puppet.com/)
 
-## Virtualization technologies
+## Virtualization Technologies
 - [Hypervisor](https://en.wikipedia.org/wiki/Hypervisor)
   - [KVM](https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine)
   - [Xen](https://en.wikipedia.org/wiki/Xen)
@@ -228,3 +200,6 @@
 - [MySQL](https://www.datadoghq.com/blog/monitoring-mysql-performance-metrics/)
 - [Redis](https://www.datadoghq.com/blog/how-to-monitor-redis-performance-metrics/)
 - [Kubernetes](https://www.datadoghq.com/blog/monitoring-kubernetes-era/)
+
+## Miscellaneous
+- [Site Reliability Engineering](https://landing.google.com/sre/book.html)
