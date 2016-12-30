@@ -20,9 +20,9 @@ The list is not complete yet, feel free to create a PR.
 - [Miscellaneous](#miscellaneous)
 
 ## Linux
-- [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
-- [Understanding the Linux kernel](http://shop.oreilly.com/product/9780596005658.do)
-- [Advanced Linux Programming](http://advancedlinuxprogramming.com/alp-folder/)
+- [Computer Science from the Bottom Up](https://www.bottomupcs.com/) :books:
+- [Understanding the Linux kernel](http://shop.oreilly.com/product/9780596005658.do) :books:
+- [Advanced Linux Programming](http://advancedlinuxprogramming.com/alp-folder/) :books:
   - [Chapter 02 - Writing Good GNU/Linux Software](http://advancedlinuxprogramming.com/alp-folder/alp-ch02-writing-good-gnu-linux-software.pdf)
   - [Chapter 03 - Processes](http://advancedlinuxprogramming.com/alp-folder/alp-ch03-processes.pdf)
   - [Chapter 04 - Threads](http://advancedlinuxprogramming.com/alp-folder/alp-ch04-threads.pdf)
@@ -114,13 +114,13 @@ The list is not complete yet, feel free to create a PR.
   - [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 - Python
   - [Official documentation](https://docs.python.org/3.6/#)
-  - [Learning Python, 5th edition](http://learning-python.com/books/about-lp5e.html)
+  - [Learning Python, 5th edition](http://learning-python.com/books/about-lp5e.html) :books:
   - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
   - [Common Gotchas](http://docs.python-guide.org/en/latest/writing/gotchas/)
   - [Testing](http://docs.python-guide.org/en/latest/writing/tests/)
 - Go
   - [Official documentation](https://golang.org/doc/) 
-  - [The Go Programming Language](http://www.gopl.io/)
+  - [The Go Programming Language](http://www.gopl.io/) :books:
 - [Data structures and complexity](http://bigocheatsheet.com/) 
 - [hackerrank.com](https://www.hackerrank.com)
   - [Python](https://www.hackerrank.com/domains/python/py-introduction)
@@ -154,7 +154,7 @@ The list is not complete yet, feel free to create a PR.
   - [Facebook's Photo Storage](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
 
 ## System Performance
-- [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
+- [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html) :books:
 
 ## Troubleshooting
 - [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions)
@@ -202,4 +202,4 @@ The list is not complete yet, feel free to create a PR.
 - [Kubernetes](https://www.datadoghq.com/blog/monitoring-kubernetes-era/)
 
 ## Miscellaneous
-- [Site Reliability Engineering](https://landing.google.com/sre/book.html)
+- [Site Reliability Engineering](https://landing.google.com/sre/book.html) :books:
