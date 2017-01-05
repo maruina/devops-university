@@ -193,7 +193,8 @@ The list is not complete yet, feel free to create a PR.
 
 ## Security
 - [Salted Password Hashing - Doing it Right](https://crackstation.net/hashing-security.htm)
-- [DDOS](https://www.incapsula.com/ddos/ddos-attacks/)
+- [DDoS](https://www.incapsula.com/ddos/ddos-attacks/)
+  - [AWS Best Practices for DDoS Resiliency](https://d0.awsstatic.com/whitepapers/Security/DDoS_White_Paper.pdf)
 
 ## Monitoring
 - [Kafka](https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics/)
