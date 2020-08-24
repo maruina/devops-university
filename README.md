@@ -22,14 +22,14 @@ The list is not complete yet, feel free to create a PR.
 ## Linux
 - [Computer Science from the Bottom Up](https://www.bottomupcs.com/) :books:
 - [Understanding the Linux kernel](http://shop.oreilly.com/product/9780596005658.do) :books:
-- [Advanced Linux Programming](http://advancedlinuxprogramming.com/alp-folder/) :books:
-  - [Chapter 02 - Writing Good GNU/Linux Software](http://advancedlinuxprogramming.com/alp-folder/alp-ch02-writing-good-gnu-linux-software.pdf)
-  - [Chapter 03 - Processes](http://advancedlinuxprogramming.com/alp-folder/alp-ch03-processes.pdf)
-  - [Chapter 04 - Threads](http://advancedlinuxprogramming.com/alp-folder/alp-ch04-threads.pdf)
-  - [Chapter 05 - Interprocess Communication](http://advancedlinuxprogramming.com/alp-folder/alp-ch05-ipc.pdf)
-  - [Chapter 06 - Mastering Linux](http://advancedlinuxprogramming.com/alp-folder/alp-ch06-mastering-linux.pdf)
-  - [Chapter 07 - The /proc File System](http://advancedlinuxprogramming.com/alp-folder/alp-ch07-proc-filesystem.pdf)
-  - [Chapter 10 - Security](http://advancedlinuxprogramming.com/alp-folder/alp-ch10-security.pdf)
+- [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming.com/alp-folder/) :books:
+  - [Chapter 02 - Writing Good GNU/Linux Software](https://mentorembedded.github.io/advancedlinuxprogramming.com/alp-folder/alp-ch02-writing-good-gnu-linux-software.pdf)
+  - [Chapter 03 - Processes](https://mentorembedded.github.io/advancedlinuxprogramming.com/alp-folder/alp-ch03-processes.pdf)
+  - [Chapter 04 - Threads](https://mentorembedded.github.io/advancedlinuxprogramming.com/alp-folder/alp-ch04-threads.pdf)
+  - [Chapter 05 - Interprocess Communication](https://mentorembedded.github.io/advancedlinuxprogramming.com/alp-folder/alp-ch05-ipc.pdf)
+  - [Chapter 06 - Mastering Linux](https://mentorembedded.github.io/advancedlinuxprogramming.com/alp-folder/alp-ch06-mastering-linux.pdf)
+  - [Chapter 07 - The /proc File System](https://mentorembedded.github.io/advancedlinuxprogramming.com/alp-folder/alp-ch07-proc-filesystem.pdf)
+  - [Chapter 10 - Security](https://mentorembedded.github.io/advancedlinuxprogramming.com/alp-folder/alp-ch10-security.pdf)
 - [Memory Layout of C Program](http://cs-fundamentals.com/c-programming/memory-layout-of-c-program-code-data-segments.php)
 - [Out of Memory](http://www.linuxdevcenter.com/pub/a/linux/2006/11/30/linux-out-of-memory.html)
 - Filesystems
