@@ -50,7 +50,7 @@ The list is not complete yet, feel free to create a PR.
   - [grsecurity](https://en.wikipedia.org/wiki/Grsecurity) 
 
 ## Network
-- Network layers 1 - 3 a
+- Network layers 1 - 3
   - [ARP](https://en.wikipedia.org/wiki/Address_Resolution_Protocol)
   - [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
   - [IPv4](https://en.wikipedia.org/wiki/IPv4)
@@ -114,7 +114,7 @@ The list is not complete yet, feel free to create a PR.
   - [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
   - [BASH Frequently Asked Questions](http://mywiki.wooledge.org/BashFAQ)
 - Python
-  - [Official documentation](https://docs.python.org/3.6/#)
+  - [Official documentation](https://docs.python.org/3/#)
   - [Learning Python, 5th edition](http://learning-python.com/books/about-lp5e.html) :books:
   - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
   - [Common Gotchas](http://docs.python-guide.org/en/latest/writing/gotchas/)
