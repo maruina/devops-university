@@ -22,14 +22,14 @@ The list is not complete yet, feel free to create a PR.
 ## Linux
 - [Computer Science from the Bottom Up](https://www.bottomupcs.com/) :books:
 - [Understanding the Linux kernel](http://shop.oreilly.com/product/9780596005658.do) :books:
-- [Advanced Linux Programming](http://advancedlinuxprogramming.com/alp-folder/) :books:
-  - [Chapter 02 - Writing Good GNU/Linux Software](http://advancedlinuxprogramming.com/alp-folder/alp-ch02-writing-good-gnu-linux-software.pdf)
-  - [Chapter 03 - Processes](http://advancedlinuxprogramming.com/alp-folder/alp-ch03-processes.pdf)
-  - [Chapter 04 - Threads](http://advancedlinuxprogramming.com/alp-folder/alp-ch04-threads.pdf)
-  - [Chapter 05 - Interprocess Communication](http://advancedlinuxprogramming.com/alp-folder/alp-ch05-ipc.pdf)
-  - [Chapter 06 - Mastering Linux](http://advancedlinuxprogramming.com/alp-folder/alp-ch06-mastering-linux.pdf)
-  - [Chapter 07 - The /proc File System](http://advancedlinuxprogramming.com/alp-folder/alp-ch07-proc-filesystem.pdf)
-  - [Chapter 10 - Security](http://advancedlinuxprogramming.com/alp-folder/alp-ch10-security.pdf)
+- [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming/alp-folder/) :books:
+  - [Chapter 02 - Writing Good GNU/Linux Software](https://mentorembedded.github.io/advancedlinuxprogramming/alp-folder/alp-ch02-writing-good-gnu-linux-software.pdf)
+  - [Chapter 03 - Processes](https://mentorembedded.github.io/advancedlinuxprogramming/alp-folder/alp-ch03-processes.pdf)
+  - [Chapter 04 - Threads](https://mentorembedded.github.io/advancedlinuxprogramming/alp-folder/alp-ch04-threads.pdf)
+  - [Chapter 05 - Interprocess Communication](https://mentorembedded.github.io/advancedlinuxprogramming/alp-folder/alp-ch05-ipc.pdf)
+  - [Chapter 06 - Mastering Linux](https://mentorembedded.github.io/advancedlinuxprogramming/alp-folder/alp-ch06-mastering-linux.pdf)
+  - [Chapter 07 - The /proc File System](https://mentorembedded.github.io/advancedlinuxprogramming/alp-folder/alp-ch07-proc-filesystem.pdf)
+  - [Chapter 10 - Security](https://mentorembedded.github.io/advancedlinuxprogramming/alp-folder/alp-ch10-security.pdf)
 - [Memory Layout of C Program](http://cs-fundamentals.com/c-programming/memory-layout-of-c-program-code-data-segments.php)
 - [Out of Memory](http://www.linuxdevcenter.com/pub/a/linux/2006/11/30/linux-out-of-memory.html)
 - Filesystems
@@ -44,7 +44,7 @@ The list is not complete yet, feel free to create a PR.
   - [InfiniBand](https://en.wikipedia.org/wiki/InfiniBand)
 - [RAID](http://www.storagecraft.com/blog/raid-performance/)
 - [I/O Scheduler](http://www.admon.org/system-tuning/a-comparison-of-io-schedulers/)
-- [CPU Scheduler](https://doc.opensuse.org/documentation/html/openSUSE_121/opensuse-tuning/cha.tuning.taskscheduler.html)
+- [CPU Scheduler](https://doc.opensuse.org/documentation/leap/archive/42.3/tuning/html/book.sle.tuning/cha.tuning.taskscheduler.html)
 - Security
   - [SELinux](https://en.wikipedia.org/wiki/Security-Enhanced_Linux)
   - [grsecurity](https://en.wikipedia.org/wiki/Grsecurity) 
@@ -55,7 +55,7 @@ The list is not complete yet, feel free to create a PR.
   - [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
   - [IPv4](https://en.wikipedia.org/wiki/IPv4)
   - [IPv6](https://en.wikipedia.org/wiki/IPv6)
-  - [ICMP](https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol) and [Path MTU Discovery](https://en.wikipedia.org/wiki/Path_MTU_Discovery)
+  - [ICMP](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol) and [Path MTU Discovery](https://en.wikipedia.org/wiki/Path_MTU_Discovery)
   - [Multicast](https://en.wikipedia.org/wiki/IP_multicast) and [IGMP](https://en.wikipedia.org/wiki/Internet_Group_Management_Protocol)
   - [IPsec](https://en.wikipedia.org/wiki/IPsec)
   - [MPLS](https://www.nanog.org/meetings/nanog49/presentations/Sunday/mpls-nanog49.pdf)
@@ -114,7 +114,7 @@ The list is not complete yet, feel free to create a PR.
   - [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
   - [BASH Frequently Asked Questions](http://mywiki.wooledge.org/BashFAQ)
 - Python
-  - [Official documentation](https://docs.python.org/3.6/#)
+  - [Official documentation](https://docs.python.org/3/#)
   - [Learning Python, 5th edition](http://learning-python.com/books/about-lp5e.html) :books:
   - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
   - [Common Gotchas](http://docs.python-guide.org/en/latest/writing/gotchas/)
